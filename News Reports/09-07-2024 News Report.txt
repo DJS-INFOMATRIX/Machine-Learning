@@ -1,0 +1,25 @@
+‼️HIGHLIGHTS IN ML FIELD‼️
+A. Few Shot Learning
+(https://www.youtube.com/watch?v=Xuat7kHYwno&list=PL1pUDpkFOnlzeLCZ5aZgSXVZ8BcpCYN8Y)
+    1. ML Models require huge amounts of data, but few shot learning is a method that makes it so that ML Models can be trained on significantly smaller amount of data
+    2. Basically Few-shot learning is a machine learning technique that trains AI models to make accurate predictions using a small number of labeled examples
+    3. So, The in practice the models be fitted with a few examples per class, and still give a high accuracy
+    4. There are datasets like 'Omniglot' that are used for Few Shot learning
+    5. The bottom line is that small Business can now leverage AI, without needing huge amounts data
+B. AI Can Now Reconstruct Images from Your Thoughts!!!
+(https://www.youtube.com/watch?v=sL1CUWM1qaY)(https://www.newscientist.com/article/2438107-mind-reading-ai-recreates-what-youre-looking-at-with-amazing-accuracy/)
+    1. Researchers at Radboud University have found a way to reconstruct images from brain activity using functional MRI (fMRI) and implanted electrodes
+    2. Different visuals create a different brain activity patterns, fMRI captures these brain activity patterns
+    3. Further Convolutional neural networks (CNNs) are trained to map these patterns to specific images. This involved training with datasets that correlate visuals with brain activity.
+    4. This method is significantly higher accuracy in reconstructing images, allowing for clearer and more precise visuals
+    5. This can further be used in medical purpose, just for example to allow paralysed individuals to communicate their thoughts, also this can be used to create images from the minds of witnesses in courts
+C. A revolutionary concept in AI: Generative Adversarial Networks (GANs)
+(https://www.youtube.com/watch?v=TpMIssRdhco)(https://machinelearningmastery.com/impressive-applications-of-generative-adversarial-networks/)
+    1. GANs consist of two neural networks
+        - Generator: Creates fake data that resembles real data.
+        - Discriminator: Evaluates the data and determines whether it is real or fake
+    2. The generator aims to produce data that is indistinguishable from real data, while the discriminator aims to correctly identify real versus fake data. What happens over time, both networks improve, resulting in highly realistic synthetic data
+    3. Application:
+        1. GANs can create highly realistic images from scratch
+        2. GANs can enhance the resolution of images
+        3. This creates GANs are the backbone of deepfake technology, which can create realistic videos where people appear to say or do things they never actually did

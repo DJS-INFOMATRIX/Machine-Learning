@@ -1,0 +1,13 @@
+‼️HIGHLIGHTS IN ML FIELD‼️
+A. Microsoft Acquires Nuance Communications
+    1. Microsoft completed the acquisition of Nuance Communications for $19.7 billion. Nuance specialises in AI voice recognition and NLP technologies and is focus on medical and healthcare sector
+    2. Microsoft is planning to integrate Nuance’s technologies into its cloud services, in particular to enhance offerings in the healthcare sector
+    3. Microsoft is strategically expanding its position to healthcare and other industries to provide advanced speech recognition and customer service solutions
+B. Cognify the prisons of the future
+    1. "Cognify" is a new prison concept, The main goal of Cognify is to reprogram prisoners mind by altering their cognitive processes and behavior through technology
+    2. Cognify incorporates brain implants on their head that interact with inmates' neural pathways to modify behavior and cognitive functions
+    3. This is a concept that is still in the pilot stage and is already raising important questions regarding ethics and security
+C. Google's Investment in AI Chip Design Startups
+    1. Google has made investments up to 100 billion dollars in AI and a major portion of it going towards AI chip design startups. These AI chips are made to process information much faster than any CPU. 
+    2. Currently the biggest manufacturer of these chips is NVIDIA. Google aims to reduce reliance on third-party hardware, leading to more efficient AI services
+    3. These AI chips are the main reason behind the lighting fast responses of Gen AI Models and Cloud services
