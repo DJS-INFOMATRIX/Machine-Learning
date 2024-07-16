@@ -1,0 +1,25 @@
+The power of Artificial General Intelligence (AGI) in future
+(https://www.cnet.com/tech/theres-ai-and-then-theres-agi-what-you-need-to-know-to-tell-the-difference/ ) (https://www.youtube.com/watch?v=m88OV10vRLA) 
+
+- AGI is still a hypothetical concept where AI supasses human intelligence
+- Basically, today’s AI focued upon specific task, like self driving cars, facial recognition, chat bots all these are focued on specific tasks. But on the other hand AGI would possess cognitive abilities, reasoning, planning, problem-solving, learning from experience, and adapting to new situations. It can perform any general tasks provided it has the data related to it
+- According to Mark Zuckerberg recent interview, Meta's plan is to create multiple AIs for different tasks, rather than focusing and depending on a single AI. AGI is an intelligence that integrates various specialized AIs into one
+- Being an important topic companies like Google’s DeepMind, OpenAI, Meta are working on it
+
+New Concept in ML: Neural Radiance Fields (NeRFs)
+
+(https://matthewtancik.com/nerf) (https://www.youtube.com/watch?v=JuH79E8rdKc)
+
+- NeRF is a concept that is able to turn any video of the real word object placed in an environment and convert it into 3D computerized objects, like the ones that are used in animations
+- It is developed by University of California, Berkeley. It heavily uses the technique called as volumetric rendering to generate images
+- There are neural network trained to minimizing the difference between rendered images and actual images, to generates realistic 3D scene reconstruction from a randomly defined point of view.
+- The current challenge is that it does not work too well to new, unseen environments. Yet the concept of conversion of any real word object into 3D computerized objects still remains a huge advancement in the field of ML and Computer Vision
+
+ML in Neuro Science and Education: Use of AI in China’s classrooms
+
+(https://www.genieacademy.com/blog/ai-in-education-in-china.-will-it-turn-students-into-mindless-drones) (https://www.youtube.com/watch?v=JMLsHI8aV0g)
+
+- A school in China has started using headbands on student’s heads, which are able to tell weather if the student is focused or distracted during the class
+- These headbands are developed by a company named BrainCO and are called FocusEDU, it uses EEG (electroencephalography) sensors to detect brain activity, on basis of which the device figures out the student’s engagement in class. The device changes color based on the student's level of concentration. The data collected is sent to teachers, parents, and potentially even school administrators
+- ML models are trained to recognize patterns in the EEG data in correspondence to different states of focus and distraction.
+- Even through we may question the use of these devices, but according to the company who created these bands, say that these devices ultimately led to improvement student’s grades.
