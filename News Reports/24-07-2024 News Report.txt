@@ -1,0 +1,24 @@
+GroundBreaking paper on Attention mechanics in LLM
+
+- The groundbreaking paper "Attention is All You Need" laid the foundation for LLMs and GenAI
+- Basically Attention mechanism in Transformers, are there for LLMs to understand context and generate accurate responses.
+- FlashAttention is designed to be faster and more memory-efficient, achieves a significant speed than any regular attention machanisms in Transformers
+- In conclusion, FlashAttention is a attention mechanism that offers faster and more memory-efficient attention for Transformers
+
+Integration of AI in Russian Military Units
+
+- During a military event, Russia showcased it advancements in military techology.
+- They showcased their robotic combat units (Uran-9, Drones, Altius, Okhotnik, and Sirius UAVs)
+- They created robots that can handle rifles, granades, can drive a car, make autonomus decisions in a battle environment
+- By utilizing ML algorithms, these robots have improved targeting accuracy. For example, the Uran-9 robot's ability to engage targets effectively relies
+- ML algorithms allow robotic systems to learn from their experiences and adapt to changing battlefield conditions
+- They aim to integrate this tech in their military in the upcoming 10 Years
+
+Meta dropped Llama 3.1
+(https://ai.meta.com/blog/meta-llama-3-1/)
+
+- Meta has released Llama 3.1
+- It's the first open-source model to rank among the top tier of AI models including ChatGPT-4s, the Claude 3.5 Sonnets, and the Gemini Ultras
+- Specifically they have realeased the Llama 3.1 in three versions - 8B, 70B, and the most capable 405B
+- It's strong in math, common sense, and has a context window of 128K tokens (around 200 pages of text)
+- Mark Zuckerberg wants Meta AI to be the most popular AI chatbot by year-end
