@@ -1,6 +1,8 @@
-# 🤖 DJS Informatix Machine Learning Domain
+<div align ="center" >
+<img src="images/logo.jpg" height ="70" width="70">
+</div>
 
-![DJ Informatix Club Logo](images/logo.jpeg)
+# 🤖 DJS Informatix Machine Learning Domain 
 
 Welcome to the Machine Learning domain of the DJ Informatix Club at D.J. Sanghvi College of Engineering! 🎓 This domain is dedicated to fostering a community of students passionate about Machine Learning. Here, we collaborate, learn, and work on exciting projects that push the boundaries of what's possible with ML.
 
@@ -8,7 +10,7 @@ Welcome to the Machine Learning domain of the DJ Informatix Club at D.J. Sanghvi
 
 ## Table of Contents
 - [About Us](#about-us)
-- [Objectives](#objectives) <!--- [Tech Used](#tech-used)-->
+- [Objectives](#objectives)
 - [Join Us](#join-us)
 - [Contact Us](#contact-us)
 
@@ -27,16 +29,6 @@ The DJ Informatix Club's ML domain aims to bring together individuals with a sha
 
 ----
 
-
-<!--## 💻Tech Used
-Here are some of the technologies and tools we use:
-- **Programming Languages:** Python
-- **Libraries and Frameworks:** TensorFlow , Keras 
-- **Tools:** Jupyter Notebook,  GitHub
-
-----
--->
-
 ##  🙌Join Us!
 Come join with us if you're passionate about machine learning and want to be involved in innovative projects! Join our amazing team by sending us a message.
 
@@ -47,7 +39,7 @@ Come join with us if you're passionate about machine learning and want to be inv
 If you have any questions or would like more information, please reach out to us:
 <p align="left">
   <a href="https://djs-infomatrix-website.onrender.com/" target="_blank">
-    <img align="center" src="images/logo.jpeg" alt="Our website" height="40" width="45"/>
+    <img align="center" src="images/logo.jpg" alt="Our website" height="40" width="45"/>
   </a>
   <a href="https://www.linkedin.com/company/djs-infomatrix/mycompany/" target="_blank">
     <img align="center" src="images/LinkedIn_Logo.png" alt="https://www.linkedin.com/company/djs-infomatrix/mycompany/" height="40" width="45" />
